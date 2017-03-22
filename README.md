@@ -8,6 +8,7 @@
 - [electron-workshop](https://github.com/feross/electron-workshop) Workshop: Build cross-platform desktop apps with Electron
 - [essential-electron](http://jlord.us/essential-electron/) Concise plain-speak about Electron.
 - [electron-fundamentals](https://maxogden.com/electron-fundamentals.html) A quick intro to Electron, a desktop application runtime.
+- [how-to-make-your-electron-app-sexy](https://blog.dcpos.ch/how-to-make-your-electron-app-sexy) How To Make Your Electron App Sexy
 
 ## Apps
 
